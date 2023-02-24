@@ -1,0 +1,30 @@
+rows: 4
+cols: 4
+
+PLANT (0,0) iris
+PLANT (0,1) lily
+PLANT (0,2) rose
+plant (0,3) sunflower
+plant (1,0) daisy
+plant (1,1) tulip
+plant (1,2) coconut
+plant (1,3) pine
+plant (2,0) oak
+plant (2,1) willow
+plant (2,2) banana
+plant (2,3) garlic
+plant (3,0) zucchini
+plant (3,1) tomato
+plant (3,2) yam
+plant (3,3) lettuce
+print
+harvest garlic
+print
+harvest lettuce
+print
+harvest tomato
+print
+harvest yam
+print
+harvest zucchini
+print
