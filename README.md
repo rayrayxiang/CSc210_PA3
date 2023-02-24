@@ -1,2 +1,2 @@
 # CSc210_PA3
-I ended up using threetrees_growonce.in to test different commands.
+I ended up using threetrees_growthree.in to test different commands.
